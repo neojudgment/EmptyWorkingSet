@@ -6,4 +6,4 @@ Visual Studio 2017 C# 7.2
 
 Working Set Information: https://msdn.microsoft.com/fr-fr/us-us/library/windows/desktop/ms687398(v=vs.85).aspx
 
-Copyright © Pascal Hubert - Brussels, Belgium 2017.
+Copyright © Pascal Hubert - Brussels, Belgium 2018 - 2022.
