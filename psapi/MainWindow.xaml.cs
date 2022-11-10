@@ -7,7 +7,7 @@
 // |                                                                                                            |
 // |    https://msdn.microsoft.com/fr-fr/us-us/library/windows/desktop/ms687398(v=vs.85).aspx                   |
 // |                                                                                                            |
-// |    Copyright © Pascal Hubert - Brussels, Belgium 2018. <mailto:pascal.hubert@outlook.com>                  |
+// |    Copyright © Pascal Hubert - Brussels, Belgium 2018 - 2022. <mailto:pascal.hubert@outlook.com>           |
 // •————————————————————————————————————————————————————————————————————————————————————————————————————————————•
 
 using System;
